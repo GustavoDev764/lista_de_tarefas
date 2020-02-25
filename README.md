@@ -6,6 +6,8 @@ Este foi feito em Flutter.
 
 Um app de lista de tarefas, voçe cria tarefas, apaga e ordena.
 
+<img src="Fotos/list.png" height="600" width="300">
+
 
 ## Documentação online do Flutter
 For help getting started with Flutter, view our
